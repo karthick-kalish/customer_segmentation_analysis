@@ -1,2 +1,2 @@
-# kalish_portfolio
+# Customer Segmentation Analysis
 Analytics Portfolio
